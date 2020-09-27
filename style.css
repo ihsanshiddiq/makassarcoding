@@ -1,0 +1,50 @@
+#navbar {
+ 
+  
+}
+
+.leftbox{
+    background-color: black;
+    float: left;
+    width: 18%;
+
+}
+.leftbox img{
+    object-fit: cover;
+    width: 150px;
+    height: 150px;
+    border: solid #007BFF 3px;
+    
+    
+}
+
+{
+    position: absolute;
+    bottom: 0px;
+}
+
+a:hover{
+    color: cyan;
+}
+
+#about{
+    padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+.rightbox {
+    float: right;
+    width: 82%;
+}
+
+#footer {
+    padding-top: 66px;
+    padding-bottom: 66px;
+}
